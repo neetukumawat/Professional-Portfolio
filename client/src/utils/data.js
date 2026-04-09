@@ -45,7 +45,7 @@ export const skillGroups = [
       { name: 'Git & GitHub', level: 90 },
       { name: 'VS Code', level: 95 },
       { name: 'Postman', level: 85 },
-      { name: 'Deployment (Vercel/Render)', level: 78 },
+      { name: 'Deployment (Vercel/Render)', level: 88 },
       { name: 'Responsive Design', level: 92 },
     ],
   },
