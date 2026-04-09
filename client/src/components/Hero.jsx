@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FiGithub, FiLinkedin, FiMail, FiArrowDown } from 'react-icons/fi';
 import { personal, techBadges } from '../utils/data';
 
-const roles = ['MERN Stack Developer', 'React Specialist', 'Full Stack Engineer', 'API Architect'];
+const roles = ['MERN Stack Developer', 'Full Stack Developer'];
 
 function TypingText() {
   const [displayed, setDisplayed] = useState('');

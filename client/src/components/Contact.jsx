@@ -133,7 +133,7 @@ export default function Contact() {
                     onChange={handleChange}
                     required
                     minLength={2}
-                    placeholder="Rahul Sharma"
+                    placeholder="pyiush Sharma"
                     className="input-field"
                     disabled={loading}
                   />
@@ -146,7 +146,7 @@ export default function Contact() {
                     value={form.email}
                     onChange={handleChange}
                     required
-                    placeholder="rahul@example.com"
+                    placeholder="piyush@example.com"
                     className="input-field"
                     disabled={loading}
                   />

@@ -83,7 +83,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-bg-border/40 flex flex-col sm:flex-row items-center justify-between gap-3 text-text-muted text-xs font-mono">
           <span>© {year} Neetu Kumawat. All rights reserved.</span>
           <span className="flex items-center gap-1.5">
-            Built with <FiHeart size={11} className="text-red-400" /> using MERN Stack
+            <FiHeart size={11} className="text-red-400" /> 
           </span>
         </div>
       </div>

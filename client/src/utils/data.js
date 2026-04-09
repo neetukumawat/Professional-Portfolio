@@ -8,8 +8,7 @@ export const personal = {
   email: 'kumawatneetu1201@gmail.com',
   github: 'https://github.com/neetukumawat',
   linkedin: 'https://www.linkedin.com/in/neetu-kumawat/',
-  cvFile: '/Neetu-Kumawat-MERN-CV.pdf',
-  // cvFile:"C:\Users\Neetu\Downloads\Neetu_Kumawat_FlowCV_Resume_2026-04-02.pdf"
+  cvFile: '/Neetu-Pradeep-MERN-CV.pdf',
 };
 
 // ─── Skills ───────────────────────────────────────────────────────────────────
@@ -70,6 +69,18 @@ export const projects = [
     accent: '#00D4FF',
     sourceCode: 'https://github.com/neetukumawat/WeatherApp',
     liveDemo: 'https://neetukumawat.github.io/WeatherApp/',
+    featured: true,
+  },
+  {
+    id: 'Animated-Loginpage',
+    title: 'Animated-Loginpage',
+    description: 'A modern animated login interface with smooth transitions, interactive UI elements, and responsive design for an engaging user experience.',
+    tags: ['HTML','JavaScript','CSS'],
+    emoji: '✨',
+    gradient: 'from-cyan-500/20 to-purple-500/20',
+    accent: '#A855F7',
+    sourceCode: 'https://github.com/neetukumawat/Animated-Loginpage',
+    liveDemo: 'https://neetukumawat.github.io/Animated-Loginpage/',
     featured: true,
   },
   {
