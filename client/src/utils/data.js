@@ -155,18 +155,7 @@ export const projects = [
     liveDemo: 'https://neetukumawat.github.io/AnalogClock/',
     featured: false,
   },
-  {
-    id: 'portfolio-website',
-    title: 'Portfolio Website',
-    description: 'Personal portfolio built with React and Tailwind CSS — responsive, animated, and production-ready.',
-    tags: ['React', 'Tailwind'],
-    emoji: '🚀',
-    gradient: 'from-cyan-500/20 to-purple-500/20',
-    accent: '#00D4FF',
-    sourceCode: 'https://github.com/neetukumawat',
-    liveDemo: '#',
-    featured: true,
-  },
+
 ];
 
 export const allFilters = ['All', 'React', 'JavaScript', 'CSS', 'API', 'Game'];
